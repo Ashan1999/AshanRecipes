@@ -1,0 +1,67 @@
+.buttonset .btn1{
+    background-color:rgba(70, 131, 180, 0.893);
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.H11{
+
+    font-size:30px;
+    color:rgba(0, 0, 0, 0.999)
+}
+
+
+body{
+
+    background-image: url(pic67.jpg);
+    background-repeat: no-repeat;
+    background-size:4500px;
+}
+
+
+
+.pra{
+
+    font-size: 26px;
+    text-align:justify;
+    color:rgba(0, 0, 0, 0.968);
+}
+
+.abc{
+
+    font-size: 30px;
+    color:rgba(0, 0, 0, 0.966);
+}
+
+.list3{
+
+    font-size: 26px;
+    color:rgba(0, 0, 0, 0.967);
+}
+
+
+.pr1{
+
+
+    font-size: 26px;
+    color:rgba(0, 0, 0, 0.982);
+}
+
+
+.cd{
+
+    font-size: 30px;
+    color:rgba(0, 0, 0, 0.941);
+}
+
+.list7{
+
+    font-size:26px;
+    color:rgba(0, 0, 0, 0.941);
+}
+

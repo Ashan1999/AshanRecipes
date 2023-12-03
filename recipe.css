@@ -1,0 +1,86 @@
+.buttonset .btn1{
+        background-color:rgb(70, 131, 180);
+        border: none;
+        color: rgb(0, 0, 0);
+        padding: 15px 80px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    
+}
+
+
+body{
+
+    background-image:url(pic67.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+}
+
+.re1{
+
+    color:rgba(0, 0, 0, 0.933);
+    font-size: 50px;
+}
+
+
+.chickencurry{
+    position: absolute;
+    top:140px;
+    left:500px;
+    color:rgba(0, 0, 0, 0.921);
+    font-size: 30px;
+}
+
+.poloscurry{
+    position:absolute;
+    top:626px;
+    left:500px;
+    color:rgba(0, 0, 0, 0.905);
+    font-size: 30px;
+
+}
+
+
+.Maluabulthiyalcurry{
+    position:absolute;
+    top:975px;
+    left:500px;
+    font-size: 30px;
+    color:rgba(0, 0, 0, 0.958);
+}
+
+
+.kalupolmaluwacurry{
+    position:absolute;
+    top:1355px;
+    left:500px;
+    color:rgba(0, 0, 0, 0.944);
+    font-size: 30px;
+}
+
+
+
+.recipebtnclickhere{
+    background-color:rgba(0, 0, 0, 0.925);
+    border:none;
+    color:rgba(0, 0, 255, 0.734);
+    padding:12px 70px;
+    text-align: center;
+    text-decoration:none;
+    font-size: 10px;
+    border-radius:50px;
+}
+
+.recipebtnclickhere{
+    box-shadow:rgba(red, green, blue, alpha).3 2px 8px 8px -5px;
+    transform:translate3d(0,2px,0);
+    font-size: 26px;
+}
+
+.recipebtnclickhere{
+    background-color:rgba(0, 0, 0, 0.951);
+
+
+}

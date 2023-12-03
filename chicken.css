@@ -1,0 +1,55 @@
+body{
+    background-image: url(15.jpg);
+    background-repeat: no-repeat;
+    background-size:100%
+
+}
+
+.H11{
+
+    color: rgba(240, 248, 255, 0.948);
+}
+
+.buttonset .btn1{
+    background-color:rgba(70, 131, 180, 0.474);
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+
+.pra{
+    font-size: 26px;
+    text-align:justify;
+    color: rgba(240, 248, 255, 0.888);
+}
+
+.abc{
+
+    font-size: 30px;
+    color: rgba(250, 235, 215, 0.948);
+}
+
+.list1{
+
+    font-size: 26px;
+    color: rgba(245, 245, 220, 0.908);
+}
+
+.efg{
+
+    font-size: 30px;
+    color: rgba(250, 235, 215, 0.951);
+
+}
+
+.list2{
+
+    font-size: 26px;
+    color: rgba(240, 255, 255, 0.905);
+}

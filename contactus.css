@@ -1,0 +1,115 @@
+.buttonset .btn1{
+    background-color:rgba(70, 131, 180, 0.729);
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}    
+.buttonset.btn1:hover{
+    background-color:rgba(126, 252, 0, 0.952);
+}
+
+body{
+    background-color:  #559fffe1;
+    font-size: 14px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+
+.container{
+    width: 88%;
+    margin:50px auto;
+}
+
+.contact-box{
+    background: #fff;
+    display: flex;
+}
+
+
+.contact-left{
+    flex-basis:60%;
+    padding: 40px  60px;
+}
+
+.contact-right{
+    flex-basis:60%;
+    padding:20px 20px;
+    background: #1c00b5;
+    color: #fff;
+    width: 25%;
+    position: absolute;
+    left: 820px;
+    top: 450px;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+.container p{
+    margin-bottom: 40px;
+
+}
+
+.input-row{
+    display:flexbox;
+    justify-content:space-between;
+    margin-bottom: 20px;
+
+
+}
+
+.input-row.input-group{
+    flex-basis: 15%;
+}
+
+input{
+
+    width: 30%;
+    border-bottom:1px solid #ccc;
+    outline: none;
+    padding-bottom: 5px;
+
+}
+
+
+.textarea{
+    width: 100%;
+    border:1px solid #cccccc84;
+    outline: none;
+    padding: 10px;
+    box-sizing:border-box;
+}
+
+label{
+    margin-bottom: 5px;
+    display: block;
+    color: #1c00b5;
+}
+ 
+.submit{
+    background: #1c00b5;
+    width: 100px;
+    outline: none;
+    color: #fff;
+    height: 35px;
+    border-radius: 30px;
+    margin-top: 20px;
+    box-shadow: 0px 5px 15px;
+}
+
+tr td:first-child{
+    padding-right: 20px;
+    
+}
+
+tr td{
+    padding-top: 20px;
+}
